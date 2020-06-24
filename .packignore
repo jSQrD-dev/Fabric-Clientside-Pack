@@ -1,0 +1,14 @@
+.minecraft/.fabric
+.minecraft/.mixin.out
+.minecraft/coremods
+.minecraft/craftpresence
+.minecraft/crash-reports
+.minecraft/icon.png
+.minecraft/justmap
+.minecraft/logs
+.minecraft/not-enough-crashes
+.minecraft/options.txt
+.minecraft/realms_persistence.json
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/usercache.json
