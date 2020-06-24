@@ -75,6 +75,6 @@ WIP Fabric modpack
   
   Item Scroller https://www.curseforge.com/minecraft/mc-mods/item-scroller
   
-#How to install
+# How to install
 
   Find the latest release, right click and copy the source code link, go to Add Instance in MultiMC, go to Import from zip and paste the link there. Rename the pack whatever you want.
