@@ -68,3 +68,9 @@ WIP Fabric modpack
   Name Pain https://www.curseforge.com/minecraft/mc-mods/name-pain
   
   Roughly Enough Resources https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources
+
+  Tweakeroo https://www.curseforge.com/minecraft/mc-mods/tweakeroo
+  
+  MaLiLib https://www.curseforge.com/minecraft/mc-mods/malilib
+  
+  Item Scroller https://www.curseforge.com/minecraft/mc-mods/item-scroller
