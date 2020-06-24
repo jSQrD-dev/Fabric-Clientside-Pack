@@ -1,0 +1,46 @@
+{ 
+	"fluidAdvancements": true,
+	"fluidStatusEffects": true,
+	// Whether we should unlimit the hard 60 fps limit placed on the title screen.
+	"unlimitTitleScreenFps": false,
+	"openingAnimation": { 
+		"fluidChatOpening": true,
+		"fluidOpenSlideFromBottom": true,
+		"fluidOpenFade": true,
+		"fluidAnimationDuration": 400,
+		"affectsGameMenus": true,
+		"affectsInventories": true,
+		"ignoreSlideWhenRedirected": true,
+		"ignoreFadeWhenRedirected": false
+	},
+	"textFieldModifications": { 
+		// Whether this module is enabled.
+		"enabled": false,
+		/* Set to Color to use the Border and Background Color.
+		   Set to Texture to use resource pack:
+		   /assets/minecraft/textures/gui/text_field.png
+		   
+		   More documentations on website.
+		*/
+		"backgroundMode": "COLOR",
+		"borderColor": 10526880,
+		"backgroundColor": 0,
+		"selectionMode": "INVERT",
+		// Whether Text Fields should allow right click actions.
+		"rightClickActions": false
+	},
+	"debugInformation": { 
+		"showFps": false
+	},
+	"customScaling": { 
+		"scale": 1.0
+	},
+	"slotHighlight": { 
+		// Whether this module is enabled.
+		"enabled": false,
+		"color": -2130706433
+	},
+	// Whether GUI should allow right click actions.
+	"rightClickActions": true,
+	"satisfyingScreenshots": true
+}

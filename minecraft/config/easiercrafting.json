@@ -1,0 +1,48 @@
+{
+  "Auto update recipe timer": {
+    "key": "Auto update recipe timer",
+    "toolTip": "Update recipe list after this many seconds after last click",
+    "value": 5,
+    "defaultValue": 5,
+    "minValue": 0,
+    "maxValue": 30
+  },
+  "Show GUI right of inventory": {
+    "key": "Show GUI right of inventory",
+    "toolTip": "Show the GUI right of the inventory, where it could conflict with Just Enough Items, instead of left, where it conflicts with active buffs",
+    "value": true,
+    "defaultValue": true
+  },
+  "Max. enchants": {
+    "key": "Max. enchants",
+    "toolTip": "Don\u0027t consider items for workbench repair if they have more than this number of enchants",
+    "value": 0,
+    "defaultValue": 0,
+    "minValue": 0,
+    "maxValue": 10
+  },
+  "Auto focus search text": {
+    "key": "Auto focus search text",
+    "toolTip": "Automatically focus the search box when opening craft GUI",
+    "value": false,
+    "defaultValue": false
+  },
+  "Categorize recipes": {
+    "key": "Categorize recipes",
+    "toolTip": "Categorize recipes by their creative mode tab",
+    "value": true,
+    "defaultValue": true
+  },
+  "Allow MC internal recipe book": {
+    "key": "Allow MC internal recipe book",
+    "toolTip": "Allow opening the MC internal recipe book (since 1.12)",
+    "value": true,
+    "defaultValue": true
+  },
+  "Allow special recipes": {
+    "key": "Allow special recipes",
+    "toolTip": "Add Shulker box coloring, tipped arrows, fireworks, repairs to the craftable list",
+    "value": true,
+    "defaultValue": true
+  }
+}

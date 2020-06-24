@@ -1,0 +1,48 @@
+{
+  "general": {
+    "useFastListTypeFiltering": true,
+    "useOptimizedTickScheduler": true,
+    "reduceObjectAllocations": true,
+    "cacheHashcodeCalculations": true,
+    "useFastMathUtilityLogic": true
+  },
+  "physics": {
+    "useSweptCollisionSearch": true,
+    "useFastShapeComparisons": true,
+    "useFastWorldBorderChecks": true,
+    "useSimpleEntityCollisionTesting": true,
+    "alwaysUnpackBlockShapes": true
+  },
+  "entity": {
+    "useOptimizedDataTracker": true,
+    "avoidLockingDataTracker": false,
+    "useOptimizedAIGoalSelection": true,
+    "useChunkCacheForEntities": true,
+    "useOptimizedChunkCacheForPathFinding": true,
+    "useStreamlessEntityRetrieval": true
+  },
+  "chunk": {
+    "disableDebugWorldType": true,
+    "useOptimizedHashPalette": true,
+    "useFastCompaction": false,
+    "removeConcurrentModificationChecks": false
+  },
+  "client": {
+    "replaceClientTimeFunction": true,
+    "reduceCuboidTransformations": true,
+    "useLoadingScreenOptimizations": true
+  },
+  "other": {
+    "useSmallTagArrayOptimization": true
+  },
+  "region": {
+    "reduceSessionLockChecks": true
+  },
+  "redstone": {
+    "useRedstoneDustOptimizations": false
+  },
+  "debug": {
+    "allowTracerVisualization": false,
+    "traceSweptCollisions": false
+  }
+}
