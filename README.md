@@ -70,3 +70,5 @@ Currently contains:
   
   ~~Window Wonders https://www.curseforge.com/minecraft/mc-mods/winwonders~~
   Currently causing crashes
+  
+  Inventory Sorting https://www.curseforge.com/minecraft/mc-mods/inventory-sorting
