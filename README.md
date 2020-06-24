@@ -1,4 +1,4 @@
-# -Fabric-Client-Side-Pack-
+# [Fabric] Client-Side Pack
 WIP Fabric modpack
 Currently contains:
   
