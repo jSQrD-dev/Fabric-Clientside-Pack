@@ -1,11 +1,9 @@
 # [Fabric] Client-Side Pack
 WIP Fabric modpack
-Currently contains:
+
+# Currently contains:
   
   Fabric API https://www.curseforge.com/minecraft/mc-mods/fabric-api
-  
-  ~~Amecs (Fabric) https://www.curseforge.com/minecraft/mc-mods/amecs~~
-  Currently causing crashes
   
   Smooth Scrolling Everywhere (Fabric) https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric
   
@@ -45,15 +43,11 @@ Currently contains:
   
   Chat Up! https://www.curseforge.com/minecraft/mc-mods/chat-up
   
-  ~~CraftPresence https://www.curseforge.com/minecraft/mc-mods/craftpresence~~
-  Currently causing crashes
+  CraftPresence https://www.curseforge.com/minecraft/mc-mods/craftpresence
   
   Dynamic FPS https://www.curseforge.com/minecraft/mc-mods/dynamic-fps
   
   Enchanted ToolTips https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips
-  
-  ~~I Need Keybinds https://www.curseforge.com/minecraft/mc-mods/i-need-keybinds~~
-  Currently causing crashes
   
   Mouse Wheelie (Fabric) https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie
   
@@ -65,10 +59,6 @@ Currently contains:
   
   Screenshot to Clipboard (Fabric) https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard-fabric
   
-  ~~Window Title Changer https://www.curseforge.com/minecraft/mc-mods/window-title-changer~~
-  Currently causing crashes
-  
-  ~~Window Wonders https://www.curseforge.com/minecraft/mc-mods/winwonders~~
-  Currently causing crashes
+  Window Wonders https://www.curseforge.com/minecraft/mc-mods/winwonders
   
   Inventory Sorting https://www.curseforge.com/minecraft/mc-mods/inventory-sorting
