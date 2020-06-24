@@ -23,7 +23,7 @@ WIP Fabric modpack
   
   ShulkerBoxTooltip https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip
   
-  Just Map https://www.curseforge.com/minecraft/mc-mods/just-map
+  VoxelMap https://www.curseforge.com/minecraft/mc-mods/voxelmap
   
   Beenfo https://www.curseforge.com/minecraft/mc-mods/beenfo
   
@@ -62,3 +62,9 @@ WIP Fabric modpack
   Window Wonders https://www.curseforge.com/minecraft/mc-mods/winwonders
   
   Inventory Sorting https://www.curseforge.com/minecraft/mc-mods/inventory-sorting
+  
+  Lithium (Fabric) https://www.curseforge.com/minecraft/mc-mods/lithium
+  
+  Name Pain https://www.curseforge.com/minecraft/mc-mods/name-pain
+  
+  Roughly Enough Resources https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources
