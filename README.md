@@ -87,10 +87,15 @@ WIP Fabric modpack
 
   Both are Redundant with Mouse Wheelie (Thanks Madis0). 
 
-  ~~Roughly Enough Resources https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources~~
+
+
+# To be added/ In Review
+  
+Clear Despawn (Fabric) https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric
+
+~~Roughly Enough Resources https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources~~
   Needs to be updated to new REI release
 
-  
 # How to install
 
   Find the latest release, right click and copy the source code link, go to Add Instance in MultiMC, go to Import from zip and paste the link there. Rename the pack whatever you want.
