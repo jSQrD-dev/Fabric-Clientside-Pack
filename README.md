@@ -75,6 +75,14 @@ WIP Fabric modpack
   
   Item Scroller https://www.curseforge.com/minecraft/mc-mods/item-scroller
   
+  Hwyla Addon Horse Info https://www.curseforge.com/minecraft/mc-mods/hwyla-addon-horse-info
+  
+  Held Item Info https://www.curseforge.com/minecraft/mc-mods/held-item-info
+  
+  WorldTime https://www.curseforge.com/minecraft/mc-mods/worldtime
+  
+  Better Mod Button https://www.curseforge.com/minecraft/mc-mods/better-mod-button
+  
 # How to install
 
   Find the latest release, right click and copy the source code link, go to Add Instance in MultiMC, go to Import from zip and paste the link there. Rename the pack whatever you want.
