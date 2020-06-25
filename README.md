@@ -61,7 +61,6 @@ WIP Fabric modpack
   
   Window Wonders https://www.curseforge.com/minecraft/mc-mods/winwonders
   
-  Inventory Sorting https://www.curseforge.com/minecraft/mc-mods/inventory-sorting
   
   Lithium (Fabric) https://www.curseforge.com/minecraft/mc-mods/lithium
   
@@ -74,7 +73,7 @@ WIP Fabric modpack
   
   MaLiLib https://www.curseforge.com/minecraft/mc-mods/malilib
   
-  Item Scroller https://www.curseforge.com/minecraft/mc-mods/item-scroller
+  
   
   # Recently Added
   
@@ -85,6 +84,14 @@ WIP Fabric modpack
   WorldTime https://www.curseforge.com/minecraft/mc-mods/worldtime
   
   Better Mod Button https://www.curseforge.com/minecraft/mc-mods/better-mod-button
+
+  # Recently Removed
+ 
+  ~~Item Scroller https://www.curseforge.com/minecraft/mc-mods/item-scroller~~
+
+  ~~Inventory Sorting https://www.curseforge.com/minecraft/mc-mods/inventory-sorting~~
+
+  Both are Redundant with Mouse Wheelie (Thanks Madis0). 
   
 # How to install
 
