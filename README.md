@@ -61,19 +61,13 @@ WIP Fabric modpack
   
   Window Wonders https://www.curseforge.com/minecraft/mc-mods/winwonders
   
-  
   Lithium (Fabric) https://www.curseforge.com/minecraft/mc-mods/lithium
   
   Name Pain https://www.curseforge.com/minecraft/mc-mods/name-pain
-  
-  ~~Roughly Enough Resources https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources~~
-  Needs to be updated to new REI release
 
   Tweakeroo https://www.curseforge.com/minecraft/mc-mods/tweakeroo
   
   MaLiLib https://www.curseforge.com/minecraft/mc-mods/malilib
-  
-  
   
   # Recently Added
   
@@ -92,6 +86,10 @@ WIP Fabric modpack
   ~~Inventory Sorting https://www.curseforge.com/minecraft/mc-mods/inventory-sorting~~
 
   Both are Redundant with Mouse Wheelie (Thanks Madis0). 
+
+  ~~Roughly Enough Resources https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources~~
+  Needs to be updated to new REI release
+
   
 # How to install
 
