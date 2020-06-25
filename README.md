@@ -67,7 +67,8 @@ WIP Fabric modpack
   
   Name Pain https://www.curseforge.com/minecraft/mc-mods/name-pain
   
-  Roughly Enough Resources https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources
+  ~~Roughly Enough Resources https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources~~
+  Needs to be updated to new REI release
 
   Tweakeroo https://www.curseforge.com/minecraft/mc-mods/tweakeroo
   
