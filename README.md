@@ -75,6 +75,8 @@ WIP Fabric modpack
   
   Item Scroller https://www.curseforge.com/minecraft/mc-mods/item-scroller
   
+  # Recently Added
+  
   Hwyla Addon Horse Info https://www.curseforge.com/minecraft/mc-mods/hwyla-addon-horse-info
   
   Held Item Info https://www.curseforge.com/minecraft/mc-mods/held-item-info
