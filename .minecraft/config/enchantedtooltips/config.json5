@@ -11,6 +11,8 @@
 	"alwaysShowEnchantInfo": false,
 	// Display missing enchantment data
 	"displayMissingEnchant": true,
+	// Should the enchant info be sorted alphabetically
+	"sortEnchantInfo": false,
 	// Display 'Description' in tooltip
 	"displayDescription": true,
 	// Display 'Max level' in tooltip

@@ -570,6 +570,7 @@
     "disableParticles": false,
     "disablePortalGuiClosing": false,
     "disableRainEffects": false,
+    "disableRenderDistanceFog": false,
     "disableSignGui": false,
     "disableSlimeBlockSlowdown": false,
     "disableTileEntityRendering": false,
@@ -783,6 +784,18 @@
       }
     },
     "disableRainEffects": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "disableRenderDistanceFog": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",

@@ -11,6 +11,9 @@
     "redstone": true,
     "repeater": true
   },
+  "horseinfo": {
+    "enabled": true
+  },
   "waila": {
     "show_registry": false,
     "show_entity_hp": true,
