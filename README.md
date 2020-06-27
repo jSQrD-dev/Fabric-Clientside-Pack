@@ -93,6 +93,8 @@ WIP Fabric modpack
   
 Clear Despawn (Fabric) https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric
 
+Health Overlay (Fabric) https://www.curseforge.com/minecraft/mc-mods/health-overlay-fabric
+
 ~~Roughly Enough Resources https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources~~
   Needs to be updated to new REI release
 
