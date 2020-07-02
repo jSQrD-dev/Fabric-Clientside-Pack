@@ -1,103 +1,96 @@
 # [Fabric] Client-Side Pack
+
 WIP Fabric modpack
 
-# Currently contains:
+## Currently contains
   
-  Fabric API https://www.curseforge.com/minecraft/mc-mods/fabric-api
+  Fabric API <https://www.curseforge.com/minecraft/mc-mods/fabric-api>
   
-  Smooth Scrolling Everywhere (Fabric) https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric
+  Smooth Scrolling Everywhere (Fabric) <https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric>
   
-  'Slight' Gui Modifications https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications
+  'Slight' Gui Modifications <https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications>
   
-  Hwyla https://www.curseforge.com/minecraft/mc-mods/hwyla
+  Hwyla <https://www.curseforge.com/minecraft/mc-mods/hwyla>
   
-  AppleSkin https://www.curseforge.com/minecraft/mc-mods/appleskin
+  AppleSkin <https://www.curseforge.com/minecraft/mc-mods/appleskin>
   
-  Light Overlay (Rift/Forge/Fabric) https://www.curseforge.com/minecraft/mc-mods/light-overlay
+  Light Overlay (Rift/Forge/Fabric) <https://www.curseforge.com/minecraft/mc-mods/light-overlay>
   
-  Mod Menu https://www.curseforge.com/minecraft/mc-mods/modmenu
+  Mod Menu <https://www.curseforge.com/minecraft/mc-mods/modmenu>
   
-  Giselbaer's Durability Viewer https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer
+  Giselbaer's Durability Viewer <https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer>
   
-  Roughly Enough Items (REI) https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
+  Roughly Enough Items (REI) <https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items>
   
-  ShulkerBoxTooltip https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip
+  ShulkerBoxTooltip <https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip>
   
-  VoxelMap https://www.curseforge.com/minecraft/mc-mods/voxelmap
+  VoxelMap <https://www.curseforge.com/minecraft/mc-mods/voxelmap>
   
-  Beenfo https://www.curseforge.com/minecraft/mc-mods/beenfo
+  Beenfo <https://www.curseforge.com/minecraft/mc-mods/beenfo>
   
-  Cloth Config API (Fabric) https://www.curseforge.com/minecraft/mc-mods/cloth-config
+  Cloth Config API (Fabric) <https://www.curseforge.com/minecraft/mc-mods/cloth-config>
   
-  Ok Zoomer https://www.curseforge.com/minecraft/mc-mods/ok-zoomer
+  Ok Zoomer <https://www.curseforge.com/minecraft/mc-mods/ok-zoomer>
   
-  Fabric AutoSwitch https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch
+  Fabric AutoSwitch <https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch>
   
-  Right Click Clear https://www.curseforge.com/minecraft/mc-mods/right-click-clear
+  Right Click Clear <https://www.curseforge.com/minecraft/mc-mods/right-click-clear>
   
-  Borderless Mining https://www.curseforge.com/minecraft/mc-mods/borderless-mining
+  Borderless Mining <https://www.curseforge.com/minecraft/mc-mods/borderless-mining>
   
-  EasierCrafting https://www.curseforge.com/minecraft/mc-mods/easiercrafting
+  EasierCrafting <https://www.curseforge.com/minecraft/mc-mods/easiercrafting>
   
-  Auto Config Updated API https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api
+  Auto Config Updated API <https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api>
   
-  Chat Up! https://www.curseforge.com/minecraft/mc-mods/chat-up
+  Chat Up! <https://www.curseforge.com/minecraft/mc-mods/chat-up>
   
-  CraftPresence https://www.curseforge.com/minecraft/mc-mods/craftpresence
+  CraftPresence <https://www.curseforge.com/minecraft/mc-mods/craftpresence>
   
-  Dynamic FPS https://www.curseforge.com/minecraft/mc-mods/dynamic-fps
+  Dynamic FPS <https://www.curseforge.com/minecraft/mc-mods/dynamic-fps>
   
-  Enchanted ToolTips https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips
+  Enchanted ToolTips <https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips>
   
-  Mouse Wheelie (Fabric) https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie
+  Mouse Wheelie (Fabric) <https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie>
   
-  Not Enough Crashes https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
+  Not Enough Crashes <https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes>
   
-  Orderly (Fabric) https://www.curseforge.com/minecraft/mc-mods/orderly
+  Orderly (Fabric) <https://www.curseforge.com/minecraft/mc-mods/orderly>
   
-  Phosphor (Fabric) https://www.curseforge.com/minecraft/mc-mods/phosphor
+  Phosphor (Fabric) <https://www.curseforge.com/minecraft/mc-mods/phosphor>
   
-  Screenshot to Clipboard (Fabric) https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard-fabric
+  Screenshot to Clipboard (Fabric) <https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard-fabric>
   
-  Window Wonders https://www.curseforge.com/minecraft/mc-mods/winwonders
+  Window Wonders <https://www.curseforge.com/minecraft/mc-mods/winwonders>
   
-  Lithium (Fabric) https://www.curseforge.com/minecraft/mc-mods/lithium
+  Lithium (Fabric) <https://www.curseforge.com/minecraft/mc-mods/lithium>
   
-  Name Pain https://www.curseforge.com/minecraft/mc-mods/name-pain
+  Name Pain <https://www.curseforge.com/minecraft/mc-mods/name-pain>
 
-  Tweakeroo https://www.curseforge.com/minecraft/mc-mods/tweakeroo
+  Tweakeroo <https://www.curseforge.com/minecraft/mc-mods/tweakeroo>
   
-  MaLiLib https://www.curseforge.com/minecraft/mc-mods/malilib
+  MaLiLib <https://www.curseforge.com/minecraft/mc-mods/malilib>
   
-  # Recently Added
+### Recently Added
   
-  Hwyla Addon Horse Info https://www.curseforge.com/minecraft/mc-mods/hwyla-addon-horse-info
+  Hwyla Addon Horse Info <https://www.curseforge.com/minecraft/mc-mods/hwyla-addon-horse-info>
   
-  Held Item Info https://www.curseforge.com/minecraft/mc-mods/held-item-info
+  Held Item Info <https://www.curseforge.com/minecraft/mc-mods/held-item-info>
   
-  WorldTime https://www.curseforge.com/minecraft/mc-mods/worldtime
+  WorldTime <https://www.curseforge.com/minecraft/mc-mods/worldtime>
   
-  Better Mod Button https://www.curseforge.com/minecraft/mc-mods/better-mod-button
+  Better Mod Button <https://www.curseforge.com/minecraft/mc-mods/better-mod-button>
 
-  # Recently Removed
- 
-  ~~Item Scroller https://www.curseforge.com/minecraft/mc-mods/item-scroller~~
+### Recently Removed
 
-  ~~Inventory Sorting https://www.curseforge.com/minecraft/mc-mods/inventory-sorting~~
+  ~~Item Scroller <https://www.curseforge.com/minecraft/mc-mods/item-scroller>~~
 
-  Both are Redundant with Mouse Wheelie (Thanks Madis0). 
+  ~~Inventory Sorting <https://www.curseforge.com/minecraft/mc-mods/inventory-sorting>~~
 
+  Both are Redundant with Mouse Wheelie (Thanks Madis0).
 
-
-# To be added/ In Review
-  
-Clear Despawn (Fabric) https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric
-
-Health Overlay (Fabric) https://www.curseforge.com/minecraft/mc-mods/health-overlay-fabric
-
-~~Roughly Enough Resources https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources~~
+  ~~Roughly Enough Resources <https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources>~~
   Needs to be updated to new REI release
 
-# How to install
+## How to install
 
   Find the latest release, right click and copy the source code link, go to Add Instance in MultiMC, go to Import from zip and paste the link there. Rename the pack whatever you want.
