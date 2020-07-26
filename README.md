@@ -20,6 +20,8 @@ WIP Client-Side Fabric Modpack
 
   Just Map <https://www.curseforge.com/minecraft/mc-mods/just-map>
 
+  Just Map Unlimited <https://www.curseforge.com/minecraft/mc-mods/just-map-unlimited>
+
 ### QoL (Quality of Life)
 
   Hwyla <https://www.curseforge.com/minecraft/mc-mods/hwyla>
@@ -80,6 +82,14 @@ WIP Client-Side Fabric Modpack
 
   Better Mod Button <https://www.curseforge.com/minecraft/mc-mods/better-mod-button>
 
+  AFKTape (Clientside) <https://www.curseforge.com/minecraft/mc-mods/afktape>
+
+#### Recently Added to list
+
+  Blur (Fabric) <https://www.curseforge.com/minecraft/mc-mods/blur-fabric>
+
+  ModUpdater <https://www.curseforge.com/minecraft/mc-mods/modupdater>
+
 ### Optifine Replacements
 
   Ok Zoomer <https://www.curseforge.com/minecraft/mc-mods/ok-zoomer>
@@ -87,6 +97,8 @@ WIP Client-Side Fabric Modpack
   LambDynamicLights <https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights>
 
   Colormatic <https://www.curseforge.com/minecraft/mc-mods/colormatic>
+
+  motioNO <https://www.curseforge.com/minecraft/mc-mods/motiono>
 
 ### Optimization
 
@@ -97,6 +109,8 @@ WIP Client-Side Fabric Modpack
   Sodium <https://www.curseforge.com/minecraft/mc-mods/sodium>
 
 ### Optional
+
+  Map Tooltip <https://www.curseforge.com/minecraft/mc-mods/map-tooltip>
 
   Hwyla Addon Horse Info <https://www.curseforge.com/minecraft/mc-mods/hwyla-addon-horse-info>
   Optional because of Horse Stats Vanilla (Fabric)
