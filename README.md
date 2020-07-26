@@ -121,5 +121,7 @@ Auto Config Updated API <https://www.curseforge.com/minecraft/mc-mods/auto-confi
 Cloth Config API (Fabric) <https://www.curseforge.com/minecraft/mc-mods/cloth-config>
 
 ## How to install
-  **Currently WIP**
+
+### Currently being updated as of July 26th, 2020
+
   Find the latest release, right click and copy the source code link, go to Add Instance in MultiMC, go to Import from zip and paste the link there. Rename the pack whatever you want.
