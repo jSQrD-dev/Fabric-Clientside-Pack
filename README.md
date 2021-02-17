@@ -7,7 +7,6 @@
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - Needed for Fabric mods to work
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
-- 
 
 ## Minimap Mods (Choose one)
 
@@ -77,7 +76,7 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
   - [cAn i MiNe thIS bLOCk?](https://www.curseforge.com/minecraft/mc-mods/can-i-mine-this-block)
   - [megane](https://www.curseforge.com/minecraft/mc-mods/megane)
 - [ModUpdater](https://www.curseforge.com/minecraft/mc-mods/modupdater)
-  - Might need manual editing 
+  - Might need manual editing
 - [Enchanted ToolTips](https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips)
 - [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
 - [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
@@ -90,7 +89,7 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 
 ## Gameplay and Organization
 
-- [Cherished Worlds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric) / [Better World List](https://www.curseforge.com/minecraft/mc-mods/better-world-list) 
+- [Cherished Worlds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric) / [Better World List](https://www.curseforge.com/minecraft/mc-mods/better-world-list)
   - ***Note: Better World List is incompatible with Cherished Worlds***
 - [Mouse Wheelie (Fabric)](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) / [Item Scroller - Mods - Minecraft - CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-scroller)
 - [Auth Me](https://www.curseforge.com/minecraft/mc-mods/auth-me)
@@ -123,9 +122,14 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 
 ### Currently being updated as of July 26th, 2020
 
-Find the latest release, right click and copy the source code link, go to Add Instance in MultiMC, go to Import from zip and paste the link there. Rename the pack whatever you want
+Find the latest release, right click and copy the source code link, go to Add Instance in MultiMC, go to Import from zip and paste the link there. Rename the pack whatever you want.
+
+Please check out:
+
+[Recommended OptiFine alternatives on Fabric (github.com)](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754)
+
+[Better Minecraft Modpack - Modpacks - Minecraft - CurseForge](https://www.curseforge.com/minecraft/modpacks/better-minecraft-modpack)
 
 ## Suggestions
 
-Please discussed additions in the discussion tab 
-
+Please discussed additions in the discussion tab
