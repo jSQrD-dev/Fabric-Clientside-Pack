@@ -7,6 +7,7 @@
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - Needed for Fabric mods to work
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
+- [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)
 
 ## Minimap Mods (Choose one)
 
@@ -108,7 +109,7 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 
 ## Optional
 
-- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) - provides users with a NEI-like light overlay.
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) / [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)
 - [Name Pain](https://www.curseforge.com/minecraft/mc-mods/name-pain)
 - [Chat Up!](https://www.curseforge.com/minecraft/mc-mods/chat-up)
 - [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
