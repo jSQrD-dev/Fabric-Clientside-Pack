@@ -1,0 +1,19 @@
+{ 
+	"visualOptions": { 
+		"fadeOutTime": 140,
+		"borderWidth": 3,
+		"borderColour": 47871,
+		"nameRenderRange": 12,
+		"rowCount": 6,
+		"columnCount": 9,
+		"textSizeModifier": 100,
+		"enableButton": true
+	},
+	"databaseOptions": { 
+		"destroyedMemoryCheckInterval": 10,
+		"readableFiles": false
+	},
+	"miscOptions": { 
+		"printGuiClassNames": false
+	}
+}

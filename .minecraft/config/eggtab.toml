@@ -1,0 +1,4 @@
+eggsGroup = true
+booksGroup = true
+foodGroup = false
+removeEmptyGroups = false

@@ -8,14 +8,16 @@
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 - [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)
+- [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric)
+- [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
+- [Cloth Config API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 
 ## Minimap Mods (Choose one)
 
 - [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
-- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-- [Xaero's Minimap (Fair-play Edition)](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition)
-- [Just Map](https://www.curseforge.com/minecraft/mc-mods/just-map)
-- [Just Map Unlimited](https://www.curseforge.com/minecraft/mc-mods/just-map-unlimited)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) / [Xaero's Minimap (Fair-play Edition)](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition)
+  - [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- [Just Map](https://www.curseforge.com/minecraft/mc-mods/just-map) / [Just Map Unlimited](https://www.curseforge.com/minecraft/mc-mods/just-map-unlimited)
 
 ## Optimization
 
@@ -37,13 +39,9 @@
 
   - **Note: Remember many of the other mods in this section do not support Optifine**
 - [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - adds a fancy zoom feature
-- [Connected Block Textures (CBT)](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures "Connected Block Textures CurseForge page") - 'Nuff said
-
-  - **_Note: To fix glass panes bottom/top go [here](https://github.com/Nuclearfarts/connected-block-textures/issues/1 "Connected Block Textures Glass Panes fix resource pack")._**
 - [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic "Colormatic CurseForge page") - Custom colors
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights "LambDynamicLights Modrinth page") - Dynamic lighting
 - [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass "LambdaBetterGrass Modrinth page") - Better grass and better snow.
-- [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures "Varied Mob Textures CurseForge page") - Random entity textures
 - [CullLeaves](https://github.com/TeamMidnightDust/CullLeaves "CullLeaves GitHub page") - Adds culling to leaf blocks, similar to OptiFine's "Smart Leaves" option.
 - [Raised Clouds](https://www.curseforge.com/minecraft/mc-mods/raised-clouds) - lets you adjust the cloud height
 - [Custom Fog](https://www.curseforge.com/minecraft/mc-mods/custom-fog) - lets you customize the fog distance and density
@@ -56,7 +54,7 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 - [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)
 - [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) - gives you the list of mods and lets you adjust their configuration
 - [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen "Dark Loading Screen CurseForge page") - Change the resource loading screen to be darker by default
-- [Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
+- [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
 - ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) - 'Nuff said
 - [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) - 'Nuff said
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2987255) - provides information about some mechanics that are invisible by default
@@ -68,9 +66,9 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 
 ## Informative
 
-- [Pling - Mods - Minecraft - CurseForge](https://www.curseforge.com/minecraft/mc-mods/pling)
+- [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
 - [Not Enough Crashes (Fabric)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)
-- [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3))
+- [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
 - [Orderly (Fabric)](https://www.curseforge.com/minecraft/mc-mods/orderly)
 - [Held Item Info](https://www.curseforge.com/minecraft/mc-mods/held-item-info)
 - [Beenfo](https://www.curseforge.com/minecraft/mc-mods/beenfo)
@@ -96,7 +94,7 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 
 - [Cherished Worlds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric) / [Better World List](https://www.curseforge.com/minecraft/mc-mods/better-world-list)
   - ***Note: Better World List is incompatible with Cherished Worlds***
-- [Mouse Wheelie (Fabric)](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) / [Item Scroller - Mods - Minecraft - CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-scroller)
+- [Mouse Wheelie (Fabric)](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) / [Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller)
 - [Auth Me](https://www.curseforge.com/minecraft/mc-mods/auth-me)
 - [Better Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/better-enchanted-books) / [Enchanted Book Redesign](https://www.curseforge.com/minecraft/mc-mods/enchanted-book-redesign-fabric)
 - [AutoSwitch](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch)
@@ -112,6 +110,7 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
 - [StepUpNext](https://www.curseforge.com/minecraft/mc-mods/stepupnext)
 - [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes)
+- [Precise Block Placing](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing)
 
 ## Optional
 
@@ -122,20 +121,20 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 - [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
 - [Your Options Shall Be Respected (YOSBR)](https://www.curseforge.com/minecraft/mc-mods/yosbr)
 - [FancyMenu [Fabric]](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric)
-- [Fabric Capes - Mods - Minecraft - CurseForge](https://www.curseforge.com/minecraft/mc-mods/capes)
+- [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes)
 - [Better Local Server](https://www.curseforge.com/minecraft/mc-mods/better-local-server)
 
 ## How to install
 
-### Currently being updated as of July 26th, 2020
-
-Find the latest release, right click and copy the source code link, go to Add Instance in MultiMC, go to Import from zip and paste the link there. Rename the pack whatever you want.
+Find the latest release for your version, right click and copy the source code link, go to Add Instance in MultiMC, go to Import from zip and paste the link there. Rename the pack whatever you want.
 
 ## Please check out:
 
-[Recommended OptiFine alternatives on Fabric (github.com)](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754)
+[Recommended OptiFine alternatives on Fabric](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754)
 
-[Fabulously Optimized - Modpacks - Minecraft - CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
+[Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
+
+[Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)
 
 ## Suggestions
 

@@ -1,0 +1,33 @@
+namesWithoutHUD = false
+seeFrameNames = true
+applyToMobs = true
+tamesAlwaysNamed = true
+seeYourName = false
+applyToScores = false
+stripFormat = false
+doValentines = true
+doAprilFools = true
+
+[nameMax]
+R = 255
+G = 255
+B = 255
+A = 255
+
+[nameMin]
+R = 255
+G = 0
+B = 0
+A = 255
+
+[plateMax]
+R = 0
+G = 0
+B = 0
+A = 63
+
+[plateMin]
+R = 192
+G = 0
+B = 0
+A = 63
