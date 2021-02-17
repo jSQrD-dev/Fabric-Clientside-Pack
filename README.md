@@ -124,7 +124,7 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 
 Find the latest release, right click and copy the source code link, go to Add Instance in MultiMC, go to Import from zip and paste the link there. Rename the pack whatever you want.
 
-Please check out:
+## Please check out:
 
 [Recommended OptiFine alternatives on Fabric (github.com)](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754)
 
@@ -132,4 +132,4 @@ Please check out:
 
 ## Suggestions
 
-Please discussed additions in the discussion tab
+Please discuss additions in the discussion tab
