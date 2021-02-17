@@ -1,4 +1,4 @@
-# [Fabric] 1.16.5 Client-Side Pack
+# [Fabric]  Client-Side Pack for 1.16.5
 
 ***Note: If two mods are side by side it means they are interchangeable or incompatible.***
 
@@ -53,6 +53,7 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 
 ## HUD/GUI
 
+- [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)
 - [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) - gives you the list of mods and lets you adjust their configuration
 - [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen "Dark Loading Screen CurseForge page") - Change the resource loading screen to be darker by default
 - [Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
@@ -65,10 +66,11 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 - [Right Click Clear](https://www.curseforge.com/minecraft/mc-mods/right-click-clear)
 - [Egg Tab](https://www.curseforge.com/minecraft/mc-mods/eggtab-fabric)
 
-## Informational
+## Informative
 
+- [Pling - Mods - Minecraft - CurseForge](https://www.curseforge.com/minecraft/mc-mods/pling)
 - [Not Enough Crashes (Fabric)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)
-- [BetterF3]([BetterF3 - Mods - Minecraft - CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterf3))
+- [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3))
 - [Orderly (Fabric)](https://www.curseforge.com/minecraft/mc-mods/orderly)
 - [Held Item Info](https://www.curseforge.com/minecraft/mc-mods/held-item-info)
 - [Beenfo](https://www.curseforge.com/minecraft/mc-mods/beenfo)
@@ -83,10 +85,12 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 - [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
 - [Map Tooltip](https://www.curseforge.com/minecraft/mc-mods/map-tooltip)
 - [More Tooltips](https://www.curseforge.com/minecraft/mc-mods/more-tooltips)
+- [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)
 - [Roughly Enough Items ](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 - [Roughly Enough Resources](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources)
 - [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
 - [Minimal Menu](https://www.curseforge.com/minecraft/mc-mods/minimal-menu)
+- [Monsters in the Closet](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet)
 
 ## Gameplay and Organization
 
@@ -105,7 +109,9 @@ More Alternatives can be found [here](https://gist.github.com/LambdAurora/1f6a4a
 - [AFKTape (Clientside)](https://www.curseforge.com/minecraft/mc-mods/afktape)
 - [Held Item Info](https://www.curseforge.com/minecraft/mc-mods/held-item-info)
 - [Chest Tracker](https://www.curseforge.com/minecraft/mc-mods/chest-tracker)
+- [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
 - [StepUpNext](https://www.curseforge.com/minecraft/mc-mods/stepupnext)
+- [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes)
 
 ## Optional
 
@@ -129,7 +135,7 @@ Find the latest release, right click and copy the source code link, go to Add In
 
 [Recommended OptiFine alternatives on Fabric (github.com)](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754)
 
-[Better Minecraft Modpack - Modpacks - Minecraft - CurseForge](https://www.curseforge.com/minecraft/modpacks/better-minecraft-modpack)
+[Fabulously Optimized - Modpacks - Minecraft - CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
 
 ## Suggestions
 
