@@ -1,5 +1,7 @@
 # [Fabric]  Client-Side Pack for 1.16.5
 
+**_ No longer being updated please use [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)_**
+
 ***Note: If two mods are side by side it means they are interchangeable or incompatible.***
 
 ## Required/Libraries
@@ -131,8 +133,6 @@ Find the latest release for your version, right click and copy the source code l
 ## Please check out:
 
 [Recommended OptiFine alternatives on Fabric](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754)
-
-[Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
 
 [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)
 
